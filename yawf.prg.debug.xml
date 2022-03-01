@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/shuailong/dev/watchface/yawf/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="1" lineNum="59" parent="globals" pc="268435456" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="1" lineNum="60" parent="globals" pc="268435468" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="1" lineNum="62" parent="globals" pc="268435468" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="1" lineNum="63" parent="globals" pc="268435478" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="1" lineNum="64" parent="globals" pc="268435489" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="1" lineNum="65" parent="globals" pc="268435666" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="1" lineNum="66" parent="globals" pc="268435684" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="1" lineNum="68" parent="globals" pc="268435697" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="1" lineNum="70" parent="globals" pc="268435707" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="1" lineNum="71" parent="globals" pc="268435725" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="1" lineNum="73" parent="globals" pc="268435752" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="1" lineNum="74" parent="globals" pc="268435766" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="1" lineNum="76" parent="globals" pc="268435785" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="1" lineNum="79" parent="globals" pc="268435804" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="1" lineNum="80" parent="globals" pc="268435818" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="1" lineNum="82" parent="globals" pc="268435837" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="1" lineNum="87" parent="globals" pc="268435869" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="1" lineNum="88" parent="globals" pc="268436033" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="1" lineNum="89" parent="globals" pc="268436051" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="1" lineNum="90" parent="globals" pc="268436078" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="1" lineNum="92" parent="globals" pc="268436103" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="1" lineNum="98" parent="globals" pc="268436138" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="2" lineNum="102" parent="globals" pc="268436142" symbol="accumulate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="2" lineNum="103" parent="globals" pc="268436154" symbol="accumulate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="2" lineNum="104" parent="globals" pc="268436161" symbol="accumulate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="2" lineNum="105" parent="globals" pc="268436174" symbol="accumulate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="2" lineNum="106" parent="globals" pc="268436179" symbol="accumulate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="2" lineNum="107" parent="globals" pc="268436194" symbol="accumulate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="2" lineNum="108" parent="globals" pc="268436204" symbol="accumulate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="2" lineNum="112" parent="globals" pc="268436224" symbol="accumulate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="3" lineNum="116" parent="globals" pc="268436228" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="3" lineNum="117" parent="globals" pc="268436240" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="3" lineNum="122" parent="globals" pc="268436391" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="3" lineNum="124" parent="globals" pc="268436411" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="3" lineNum="125" parent="globals" pc="268436422" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="3" lineNum="126" parent="globals" pc="268436435" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="3" lineNum="127" parent="globals" pc="268436446" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="3" lineNum="128" parent="globals" pc="268436459" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="3" lineNum="129" parent="globals" pc="268436470" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="3" lineNum="131" parent="globals" pc="268436483" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="3" lineNum="133" parent="globals" pc="268436505" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="3" lineNum="134" parent="globals" pc="268436515" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="3" lineNum="135" parent="globals" pc="268436522" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="3" lineNum="136" parent="globals" pc="268436533" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="3" lineNum="137" parent="globals" pc="268436549" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="3" lineNum="138" parent="globals" pc="268436560" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="3" lineNum="139" parent="globals" pc="268436582" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="3" lineNum="140" parent="globals" pc="268436593" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="3" lineNum="141" parent="globals" pc="268436603" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="3" lineNum="143" parent="globals" pc="268436614" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="3" lineNum="145" parent="globals" pc="268436636" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="3" lineNum="147" parent="globals" pc="268436643" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="4" lineNum="157" parent="globals/LunarDateUtils" pc="268436650" symbol="initialize"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="163" parent="globals/LunarDateUtils" pc="268436655" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="167" parent="globals/LunarDateUtils" pc="268436659" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="168" parent="globals/LunarDateUtils" pc="268436659" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="169" parent="globals/LunarDateUtils" pc="268436659" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="170" parent="globals/LunarDateUtils" pc="268436666" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="172" parent="globals/LunarDateUtils" pc="268436666" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="174" parent="globals/LunarDateUtils" pc="268436670" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="175" parent="globals/LunarDateUtils" pc="268436695" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="176" parent="globals/LunarDateUtils" pc="268436726" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="178" parent="globals/LunarDateUtils" pc="268436751" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="181" parent="globals/LunarDateUtils" pc="268436814" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="185" parent="globals/LunarDateUtils" pc="268436827" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="192" parent="globals/LunarDateUtils" pc="268436906" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="193" parent="globals/LunarDateUtils" pc="268436931" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="194" parent="globals/LunarDateUtils" pc="268436962" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="195" parent="globals/LunarDateUtils" pc="268436987" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="202" parent="globals/LunarDateUtils" pc="268437066" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="203" parent="globals/LunarDateUtils" pc="268437081" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="206" parent="globals/LunarDateUtils" pc="268437100" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="207" parent="globals/LunarDateUtils" pc="268437119" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="208" parent="globals/LunarDateUtils" pc="268437134" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="209" parent="globals/LunarDateUtils" pc="268437147" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="210" parent="globals/LunarDateUtils" pc="268437162" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="211" parent="globals/LunarDateUtils" pc="268437169" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="212" parent="globals/LunarDateUtils" pc="268437184" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="213" parent="globals/LunarDateUtils" pc="268437201" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="218" parent="globals/LunarDateUtils" pc="268437211" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="221" parent="globals/LunarDateUtils" pc="268437233" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="224" parent="globals/LunarDateUtils" pc="268437252" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="225" parent="globals/LunarDateUtils" pc="268437256" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="226" parent="globals/LunarDateUtils" pc="268437290" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="228" parent="globals/LunarDateUtils" pc="268437297" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="230" parent="globals/LunarDateUtils" pc="268437307" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="231" parent="globals/LunarDateUtils" pc="268437347" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="5" lineNum="235" parent="globals/LunarDateUtils" pc="268437354" symbol="getLunarDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="6" lineNum="155" parent="globals/LunarDateUtils" pc="268443125" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="7" lineNum="17" parent="globals" pc="268440997" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/LunarDateUtils.mc" id="7" lineNum="32" parent="globals" pc="268442051" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="8" lineNum="38" parent="globals/Test" pc="268437375" symbol="initialize"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="8" lineNum="39" parent="globals/Test" pc="268437379" symbol="initialize"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="9" lineNum="43" parent="globals/Test" pc="268437401" symbol="test"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="9" lineNum="44" parent="globals/Test" pc="268437405" symbol="test"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="9" lineNum="45" parent="globals/Test" pc="268437426" symbol="test"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="9" lineNum="46" parent="globals/Test" pc="268437438" symbol="test"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="9" lineNum="47" parent="globals/Test" pc="268437480" symbol="test"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="9" lineNum="48" parent="globals/Test" pc="268437496" symbol="test"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="9" lineNum="49" parent="globals/Test" pc="268437521" symbol="test"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="55" parent="globals/Test" pc="268437540" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="56" parent="globals/Test" pc="268437544" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="57" parent="globals/Test" pc="268437544" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="58" parent="globals/Test" pc="268437544" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="59" parent="globals/Test" pc="268437551" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="61" parent="globals/Test" pc="268437551" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="63" parent="globals/Test" pc="268437555" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="64" parent="globals/Test" pc="268437580" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="65" parent="globals/Test" pc="268437611" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="66" parent="globals/Test" pc="268437636" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="67" parent="globals/Test" pc="268437660" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="68" parent="globals/Test" pc="268437684" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="69" parent="globals/Test" pc="268437708" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="70" parent="globals/Test" pc="268437732" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="71" parent="globals/Test" pc="268437756" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="73" parent="globals/Test" pc="268437780" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="76" parent="globals/Test" pc="268437843" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="80" parent="globals/Test" pc="268437856" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="87" parent="globals/Test" pc="268437935" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="88" parent="globals/Test" pc="268437960" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="89" parent="globals/Test" pc="268437991" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="90" parent="globals/Test" pc="268438016" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="97" parent="globals/Test" pc="268438095" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="98" parent="globals/Test" pc="268438110" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="101" parent="globals/Test" pc="268438129" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="102" parent="globals/Test" pc="268438148" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="103" parent="globals/Test" pc="268438163" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="104" parent="globals/Test" pc="268438176" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="105" parent="globals/Test" pc="268438191" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="106" parent="globals/Test" pc="268438198" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="107" parent="globals/Test" pc="268438213" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="108" parent="globals/Test" pc="268438230" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="113" parent="globals/Test" pc="268438240" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="116" parent="globals/Test" pc="268438262" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="119" parent="globals/Test" pc="268438281" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="120" parent="globals/Test" pc="268438285" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="121" parent="globals/Test" pc="268438319" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="123" parent="globals/Test" pc="268438326" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="125" parent="globals/Test" pc="268438336" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="126" parent="globals/Test" pc="268438376" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="10" lineNum="130" parent="globals/Test" pc="268438383" symbol="getLunarDate_2"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="11" lineNum="133" parent="globals/Test" pc="268438404" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="11" lineNum="134" parent="globals/Test" pc="268438408" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="11" lineNum="139" parent="globals/Test" pc="268438559" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="11" lineNum="141" parent="globals/Test" pc="268438579" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="11" lineNum="142" parent="globals/Test" pc="268438590" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="11" lineNum="143" parent="globals/Test" pc="268438603" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="11" lineNum="144" parent="globals/Test" pc="268438614" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="11" lineNum="145" parent="globals/Test" pc="268438627" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="11" lineNum="146" parent="globals/Test" pc="268438638" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="11" lineNum="148" parent="globals/Test" pc="268438651" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="11" lineNum="150" parent="globals/Test" pc="268438673" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="11" lineNum="151" parent="globals/Test" pc="268438683" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="11" lineNum="152" parent="globals/Test" pc="268438690" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="11" lineNum="153" parent="globals/Test" pc="268438701" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="11" lineNum="154" parent="globals/Test" pc="268438717" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="11" lineNum="155" parent="globals/Test" pc="268438728" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="11" lineNum="156" parent="globals/Test" pc="268438750" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="11" lineNum="157" parent="globals/Test" pc="268438761" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="11" lineNum="158" parent="globals/Test" pc="268438771" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="11" lineNum="159" parent="globals/Test" pc="268438782" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="11" lineNum="161" parent="globals/Test" pc="268438804" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="11" lineNum="163" parent="globals/Test" pc="268438811" symbol="formatCHNDate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="12" lineNum="175" parent="globals/Test" pc="268438818" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="12" lineNum="176" parent="globals/Test" pc="268438822" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="12" lineNum="178" parent="globals/Test" pc="268438822" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="12" lineNum="179" parent="globals/Test" pc="268438832" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="12" lineNum="180" parent="globals/Test" pc="268438843" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="12" lineNum="181" parent="globals/Test" pc="268439020" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="12" lineNum="182" parent="globals/Test" pc="268439038" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="12" lineNum="184" parent="globals/Test" pc="268439051" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="12" lineNum="186" parent="globals/Test" pc="268439061" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="12" lineNum="187" parent="globals/Test" pc="268439079" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="12" lineNum="189" parent="globals/Test" pc="268439106" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="12" lineNum="190" parent="globals/Test" pc="268439120" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="12" lineNum="192" parent="globals/Test" pc="268439139" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="12" lineNum="195" parent="globals/Test" pc="268439158" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="12" lineNum="196" parent="globals/Test" pc="268439172" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="12" lineNum="198" parent="globals/Test" pc="268439191" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="12" lineNum="203" parent="globals/Test" pc="268439223" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="12" lineNum="204" parent="globals/Test" pc="268439387" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="12" lineNum="205" parent="globals/Test" pc="268439405" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="12" lineNum="206" parent="globals/Test" pc="268439432" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="12" lineNum="208" parent="globals/Test" pc="268439457" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="12" lineNum="214" parent="globals/Test" pc="268439492" symbol="decode"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="13" lineNum="217" parent="globals/Test" pc="268439496" symbol="accumulate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="13" lineNum="218" parent="globals/Test" pc="268439500" symbol="accumulate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="13" lineNum="219" parent="globals/Test" pc="268439507" symbol="accumulate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="13" lineNum="220" parent="globals/Test" pc="268439520" symbol="accumulate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="13" lineNum="221" parent="globals/Test" pc="268439525" symbol="accumulate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="13" lineNum="222" parent="globals/Test" pc="268439540" symbol="accumulate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="13" lineNum="223" parent="globals/Test" pc="268439550" symbol="accumulate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="13" lineNum="227" parent="globals/Test" pc="268439570" symbol="accumulate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="14" lineNum="7" parent="globals/Test" pc="268443175" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="14" lineNum="20" parent="globals/Test" pc="268444229" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/Test.mc" id="14" lineNum="6" parent="globals/Test" pc="268443175" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfApp.mc" id="16" lineNum="7" parent="globals/yawfApp" pc="268439574" symbol="initialize"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfApp.mc" id="16" lineNum="8" parent="globals/yawfApp" pc="268439578" symbol="initialize"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfApp.mc" id="17" lineNum="12" parent="globals/yawfApp" pc="268439597" symbol="onStart"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfApp.mc" id="18" lineNum="16" parent="globals/yawfApp" pc="268439602" symbol="onStop"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfApp.mc" id="19" lineNum="20" parent="globals/yawfApp" pc="268439607" symbol="getInitialView"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfApp.mc" id="19" lineNum="21" parent="globals/yawfApp" pc="268439611" symbol="getInitialView"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfApp.mc" id="20" lineNum="5" parent="globals/yawfApp" pc="268443106" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfApp.mc" id="20" lineNum="5" parent="globals/yawfApp" pc="268443106" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfApp.mc" id="21" lineNum="26" parent="globals" pc="268439649" symbol="getApp"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfApp.mc" id="21" lineNum="27" parent="globals" pc="268439661" symbol="getApp"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="23" lineNum="11" parent="globals/yawfView" pc="268439678" symbol="initialize"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="23" lineNum="12" parent="globals/yawfView" pc="268439682" symbol="initialize"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="24" lineNum="16" parent="globals/yawfView" pc="268439701" symbol="onLayout"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="24" lineNum="17" parent="globals/yawfView" pc="268439705" symbol="onLayout"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="25" lineNum="23" parent="globals/yawfView" pc="268439743" symbol="onShow"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="26" lineNum="27" parent="globals/yawfView" pc="268439748" symbol="onUpdate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="26" lineNum="29" parent="globals/yawfView" pc="268439752" symbol="onUpdate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="26" lineNum="30" parent="globals/yawfView" pc="268439769" symbol="onUpdate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="26" lineNum="31" parent="globals/yawfView" pc="268439843" symbol="onUpdate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="26" lineNum="32" parent="globals/yawfView" pc="268439867" symbol="onUpdate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="26" lineNum="35" parent="globals/yawfView" pc="268439881" symbol="onUpdate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="26" lineNum="37" parent="globals/yawfView" pc="268439929" symbol="onUpdate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="26" lineNum="38" parent="globals/yawfView" pc="268439977" symbol="onUpdate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="26" lineNum="40" parent="globals/yawfView" pc="268440020" symbol="onUpdate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="26" lineNum="41" parent="globals/yawfView" pc="268440090" symbol="onUpdate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="26" lineNum="42" parent="globals/yawfView" pc="268440114" symbol="onUpdate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="26" lineNum="45" parent="globals/yawfView" pc="268440128" symbol="onUpdate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="26" lineNum="49" parent="globals/yawfView" pc="268440151" symbol="onUpdate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="26" lineNum="50" parent="globals/yawfView" pc="268440158" symbol="onUpdate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="26" lineNum="53" parent="globals/yawfView" pc="268440168" symbol="onUpdate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="26" lineNum="55" parent="globals/yawfView" pc="268440200" symbol="onUpdate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="26" lineNum="56" parent="globals/yawfView" pc="268440248" symbol="onUpdate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="26" lineNum="57" parent="globals/yawfView" pc="268440272" symbol="onUpdate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="26" lineNum="60" parent="globals/yawfView" pc="268440286" symbol="onUpdate"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="27" lineNum="66" parent="globals/yawfView" pc="268440307" symbol="onHide"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="28" lineNum="70" parent="globals/yawfView" pc="268440312" symbol="onExitSleep"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="29" lineNum="74" parent="globals/yawfView" pc="268440317" symbol="onEnterSleep"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="30" lineNum="9" parent="globals/yawfView" pc="268443156" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/shuailong/dev/watchface/yawf/source/yawfView.mc" id="30" lineNum="9" parent="globals/yawfView" pc="268443156" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="32" lineNum="2" parent="globals/Rez/Drawables" pc="268443150" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="33" lineNum="6" parent="globals/Rez/Fonts" pc="268443152" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="34" lineNum="8" parent="globals/Rez/JsonData" pc="268443154" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="35" lineNum="17" parent="globals/Rez/Layouts" pc="268440322" symbol="WatchFace"/>
+        <entry filename="Rez" id="35" lineNum="19" parent="globals/Rez/Layouts" pc="268440334" symbol="WatchFace"/>
+        <entry filename="Rez" id="35" lineNum="20" parent="globals/Rez/Layouts" pc="268440497" symbol="WatchFace"/>
+        <entry filename="Rez" id="35" lineNum="21" parent="globals/Rez/Layouts" pc="268440683" symbol="WatchFace"/>
+        <entry filename="Rez" id="35" lineNum="22" parent="globals/Rez/Layouts" pc="268440816" symbol="WatchFace"/>
+        <entry filename="Rez" id="35" lineNum="24" parent="globals/Rez/Layouts" pc="268440949" symbol="WatchFace"/>
+        <entry filename="Rez" id="36" lineNum="10" parent="globals/Rez/Layouts" pc="268443153" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="37" lineNum="29" parent="globals/Rez/Menus" pc="268443151" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="38" lineNum="31" parent="globals/Rez/Strings" pc="268443155" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="39" lineNum="1" parent="globals/Rez" pc="268443126" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="39" lineNum="1" parent="globals/Rez" pc="268443126" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8389346" symbol="text"/>
+        <entry id="8390141" method="true" object="true" symbol="test"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry field="true" id="10" symbol="CHINESE_NEW_YEAR_DATE"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="11" method="true" symbol="decode"/>
+        <entry field="true" id="8388938" symbol="month"/>
+        <entry id="13" method="true" symbol="formatCHNDate"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry id="14" object="true" symbol="LunarDateUtils"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8388649" module="true" object="true" symbol="Test"/>
+        <entry field="true" id="21" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388631" module="true" symbol="Activity"/>
+        <entry id="8389338" symbol="minute"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="17" method="true" symbol="getLunarDate"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="12" method="true" symbol="accumulate"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry field="true" id="8389067" symbol="height"/>
+        <entry id="19" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="8389066" symbol="width"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="16" object="true" symbol="yawfView"/>
+        <entry id="15" object="true" symbol="yawfApp"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="8388720" symbol="hour"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="20" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="22" method="true" symbol="getLunarDate_2"/>
+        <entry field="true" id="9" symbol="CHINESE_YEAR_CODE"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="8388939" symbol="day"/>
+        <entry field="true" id="8388940" symbol="year"/>
+        <entry id="18" module="true" symbol="Layouts"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435865" name="i" stackId="4" startPc="268435725"/>
+        <entry endPc="268436137" name="i" stackId="5" startPc="268436051"/>
+        <entry endPc="268436140" name="runYue" stackId="3" startPc="268435468"/>
+        <entry endPc="268436140" name="monthDays" stackId="2" startPc="268435468"/>
+        <entry arg="true" endPc="268436141" name="yearCode" stackId="1" startPc="268435456"/>
+        <entry endPc="268436223" name="i" stackId="5" startPc="268436194"/>
+        <entry endPc="268436226" name="size" stackId="3" startPc="268436154"/>
+        <entry endPc="268436226" name="acc" stackId="4" startPc="268436154"/>
+        <entry endPc="268436226" name="days" stackId="2" startPc="268436154"/>
+        <entry arg="true" endPc="268436227" name="monthDays" stackId="1" startPc="268436142"/>
+        <entry endPc="268436648" name="zhDay" stackId="7" startPc="268436240"/>
+        <entry endPc="268436648" name="zhMonth" stackId="6" startPc="268436240"/>
+        <entry endPc="268436648" name="ZHNUMS" stackId="5" startPc="268436240"/>
+        <entry arg="true" endPc="268436649" name="leapMonth" stackId="4" startPc="268436228"/>
+        <entry arg="true" endPc="268436649" name="lunarMonth" stackId="2" startPc="268436228"/>
+        <entry arg="true" endPc="268436649" name="lunarDay" stackId="3" startPc="268436228"/>
+        <entry arg="true" endPc="268436649" name="lunarYear" stackId="1" startPc="268436228"/>
+        <entry endPc="268437251" name="i" stackId="20" startPc="268437184"/>
+        <entry endPc="268437373" name="lunarYear" stackId="4" startPc="268436659"/>
+        <entry endPc="268437373" name="lunarMonth" stackId="5" startPc="268436659"/>
+        <entry endPc="268437373" name="newYearDateM" stackId="9" startPc="268436659"/>
+        <entry endPc="268437373" name="acc" stackId="18" startPc="268436659"/>
+        <entry endPc="268437373" name="yearCode" stackId="15" startPc="268436659"/>
+        <entry endPc="268437373" name="daysPassed" stackId="14" startPc="268436659"/>
+        <entry endPc="268437373" name="lunarDay" stackId="6" startPc="268436659"/>
+        <entry endPc="268437373" name="newYearDateMoment" stackId="12" startPc="268436659"/>
+        <entry endPc="268437373" name="newYearDateD" stackId="10" startPc="268436659"/>
+        <entry endPc="268437373" name="newYearDateY" stackId="8" startPc="268436659"/>
+        <entry endPc="268437373" name="monthTemp" stackId="19" startPc="268436659"/>
+        <entry endPc="268437373" name="monthDays" stackId="16" startPc="268436659"/>
+        <entry endPc="268437373" name="durationPassed" stackId="13" startPc="268436659"/>
+        <entry endPc="268437373" name="todayMoment" stackId="11" startPc="268436659"/>
+        <entry endPc="268437373" name="leapMonth" stackId="7" startPc="268436659"/>
+        <entry endPc="268437373" name="size" stackId="17" startPc="268436659"/>
+        <entry arg="true" endPc="268437374" name="day" stackId="3" startPc="268436655"/>
+        <entry arg="true" endPc="268437374" name="year" stackId="1" startPc="268436655"/>
+        <entry arg="true" endPc="268437374" name="month" stackId="2" startPc="268436655"/>
+        <entry endPc="268437538" name="x" stackId="4" startPc="268437405"/>
+        <entry endPc="268437538" name="newYearDateY" stackId="5" startPc="268437405"/>
+        <entry arg="true" endPc="268437539" name="day" stackId="3" startPc="268437401"/>
+        <entry arg="true" endPc="268437539" name="year" stackId="1" startPc="268437401"/>
+        <entry arg="true" endPc="268437539" name="month" stackId="2" startPc="268437401"/>
+        <entry endPc="268438280" name="i" stackId="20" startPc="268438213"/>
+        <entry endPc="268438402" name="lunarYear" stackId="4" startPc="268437544"/>
+        <entry endPc="268438402" name="lunarMonth" stackId="5" startPc="268437544"/>
+        <entry endPc="268438402" name="newYearDateM" stackId="9" startPc="268437544"/>
+        <entry endPc="268438402" name="acc" stackId="18" startPc="268437544"/>
+        <entry endPc="268438402" name="yearCode" stackId="15" startPc="268437544"/>
+        <entry endPc="268438402" name="daysPassed" stackId="14" startPc="268437544"/>
+        <entry endPc="268438402" name="lunarDay" stackId="6" startPc="268437544"/>
+        <entry endPc="268438402" name="newYearDateMoment" stackId="12" startPc="268437544"/>
+        <entry endPc="268438402" name="newYearDateD" stackId="10" startPc="268437544"/>
+        <entry endPc="268438402" name="newYearDateY" stackId="8" startPc="268437544"/>
+        <entry endPc="268438402" name="monthTemp" stackId="19" startPc="268437544"/>
+        <entry endPc="268438402" name="monthDays" stackId="16" startPc="268437544"/>
+        <entry endPc="268438402" name="durationPassed" stackId="13" startPc="268437544"/>
+        <entry endPc="268438402" name="todayMoment" stackId="11" startPc="268437544"/>
+        <entry endPc="268438402" name="leapMonth" stackId="7" startPc="268437544"/>
+        <entry endPc="268438402" name="size" stackId="17" startPc="268437544"/>
+        <entry arg="true" endPc="268438403" name="day" stackId="3" startPc="268437540"/>
+        <entry arg="true" endPc="268438403" name="year" stackId="1" startPc="268437540"/>
+        <entry arg="true" endPc="268438403" name="month" stackId="2" startPc="268437540"/>
+        <entry endPc="268438816" name="zhDay" stackId="7" startPc="268438408"/>
+        <entry endPc="268438816" name="zhMonth" stackId="6" startPc="268438408"/>
+        <entry endPc="268438816" name="ZHNUMS" stackId="5" startPc="268438408"/>
+        <entry arg="true" endPc="268438817" name="leapMonth" stackId="4" startPc="268438404"/>
+        <entry arg="true" endPc="268438817" name="lunarMonth" stackId="2" startPc="268438404"/>
+        <entry arg="true" endPc="268438817" name="lunarDay" stackId="3" startPc="268438404"/>
+        <entry arg="true" endPc="268438817" name="lunarYear" stackId="1" startPc="268438404"/>
+        <entry endPc="268439219" name="i" stackId="4" startPc="268439079"/>
+        <entry endPc="268439491" name="i" stackId="5" startPc="268439405"/>
+        <entry endPc="268439494" name="runYue" stackId="3" startPc="268438822"/>
+        <entry endPc="268439494" name="monthDays" stackId="2" startPc="268438822"/>
+        <entry arg="true" endPc="268439495" name="yearCode" stackId="1" startPc="268438818"/>
+        <entry endPc="268439569" name="i" stackId="5" startPc="268439540"/>
+        <entry endPc="268439572" name="size" stackId="3" startPc="268439500"/>
+        <entry endPc="268439572" name="acc" stackId="4" startPc="268439500"/>
+        <entry endPc="268439572" name="days" stackId="2" startPc="268439500"/>
+        <entry arg="true" endPc="268439573" name="monthDays" stackId="1" startPc="268439496"/>
+        <entry arg="true" endPc="268439601" name="state" stackId="1" startPc="268439597"/>
+        <entry arg="true" endPc="268439606" name="state" stackId="1" startPc="268439602"/>
+        <entry arg="true" endPc="268439742" name="dc" stackId="1" startPc="268439701"/>
+        <entry endPc="268440305" name="timeString" stackId="3" startPc="268439752"/>
+        <entry endPc="268440305" name="dateLabel" stackId="9" startPc="268439752"/>
+        <entry endPc="268440305" name="HRString" stackId="12" startPc="268439752"/>
+        <entry endPc="268440305" name="clockTime" stackId="2" startPc="268439752"/>
+        <entry endPc="268440305" name="CHN_Date" stackId="7" startPc="268439752"/>
+        <entry endPc="268440305" name="heartRate" stackId="10" startPc="268439752"/>
+        <entry endPc="268440305" name="HRLabel" stackId="13" startPc="268439752"/>
+        <entry endPc="268440305" name="nowInfo_short" stackId="6" startPc="268439752"/>
+        <entry endPc="268440305" name="view" stackId="4" startPc="268439752"/>
+        <entry endPc="268440305" name="nowInfo" stackId="5" startPc="268439752"/>
+        <entry endPc="268440305" name="nowString" stackId="8" startPc="268439752"/>
+        <entry endPc="268440305" name="batteryLevel" stackId="11" startPc="268439752"/>
+        <entry arg="true" endPc="268440306" name="dc" stackId="1" startPc="268439748"/>
+        <entry endPc="268440995" name="rez_cmp_local_textarea_TimeLabel" stackId="3" startPc="268440334"/>
+        <entry endPc="268440995" name="rez_cmp_local_text_DateLabel" stackId="4" startPc="268440334"/>
+        <entry endPc="268440995" name="rez_cmp_local_text_HRLabel" stackId="5" startPc="268440334"/>
+        <entry endPc="268440995" name="rez_cmp_local_text_TimeLabel2" stackId="2" startPc="268440334"/>
+        <entry arg="true" endPc="268440996" name="dc" stackId="1" startPc="268440322"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/yawfApp" offset="214" parentId="globals" symbolId="yawfApp" type="class"/>
+        <dataEntry label="globals/LunarDateUtils" offset="285" parentId="globals" symbolId="LunarDateUtils" type="class"/>
+        <dataEntry label="globals/Rez" offset="340" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="419" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="458" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="489" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="520" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="559" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="590" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/yawfView" offset="629" parentId="globals" symbolId="yawfView" type="class"/>
+        <dataEntry label="globals/Test" offset="724" parentId="globals" symbolId="Test" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268436141" name="decode" startPc="268435456">
+            <param id="yearCode"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436227" name="accumulate" startPc="268436142">
+            <param id="monthDays"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436649" name="formatCHNDate" startPc="268436228">
+            <param id="lunarYear"/>
+            <param id="lunarMonth"/>
+            <param id="lunarDay"/>
+            <param id="leapMonth"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436654" name="initialize" parent="LunarDateUtils" startPc="268436650">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437374" name="getLunarDate" parent="LunarDateUtils" startPc="268436655">
+            <param id="year"/>
+            <param id="month"/>
+            <param id="day"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268443125" name="&lt;init&gt;" parent="LunarDateUtils" startPc="268443125">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437400" name="initialize" parent="Test" startPc="268437375">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437539" name="test" parent="Test" startPc="268437401">
+            <param id="year"/>
+            <param id="month"/>
+            <param id="day"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438403" name="getLunarDate_2" parent="Test" startPc="268437540">
+            <param id="year"/>
+            <param id="month"/>
+            <param id="day"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438817" name="formatCHNDate" parent="Test" startPc="268438404">
+            <param id="lunarYear"/>
+            <param id="lunarMonth"/>
+            <param id="lunarDay"/>
+            <param id="leapMonth"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439495" name="decode" parent="Test" startPc="268438818">
+            <param id="yearCode"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439573" name="accumulate" parent="Test" startPc="268439496">
+            <param id="monthDays"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268445283" name="&lt;init&gt;" parent="Test" startPc="268443175">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439596" name="initialize" parent="yawfApp" startPc="268439574">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439601" name="onStart" parent="yawfApp" startPc="268439597">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439606" name="onStop" parent="yawfApp" startPc="268439602">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439648" name="getInitialView" parent="yawfApp" startPc="268439607">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268443124" name="&lt;init&gt;" parent="yawfApp" startPc="268443106">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439677" name="getApp" startPc="268439649">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439700" name="initialize" parent="yawfView" startPc="268439678">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439742" name="onLayout" parent="yawfView" startPc="268439701">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439747" name="onShow" parent="yawfView" startPc="268439743">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440306" name="onUpdate" parent="yawfView" startPc="268439748">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440311" name="onHide" parent="yawfView" startPc="268440307">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440316" name="onExitSleep" parent="yawfView" startPc="268440312">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440321" name="onEnterSleep" parent="yawfView" startPc="268440317">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268443174" name="&lt;init&gt;" parent="yawfView" startPc="268443156">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268443150" name="&lt;init&gt;" parent="Drawables" startPc="268443150">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268443152" name="&lt;init&gt;" parent="Fonts" startPc="268443152">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268443154" name="&lt;init&gt;" parent="JsonData" startPc="268443154">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440996" name="WatchFace" parent="Layouts" startPc="268440322">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268443153" name="&lt;init&gt;" parent="Layouts" startPc="268443153">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268443151" name="&lt;init&gt;" parent="Menus" startPc="268443151">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268443155" name="&lt;init&gt;" parent="Strings" startPc="268443155">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268443149" name="&lt;init&gt;" parent="Rez" startPc="268443126">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

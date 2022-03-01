@@ -1,0 +1,29 @@
+<layout id="WatchFace">
+    <label
+        id="TimeLabel2" x="center" y="center"
+        font="Graphics.FONT_SYSTEM_NUMBER_THAI_HOT" 
+        justification="Graphics.TEXT_JUSTIFY_CENTER" 
+        color="Graphics.COLOR_WHITE" 
+        />
+
+    <text-area
+        id="TimeLabel"
+        x="40%" y="40%"
+        width="80%" height="80%"
+        justification="Graphics.TEXT_JUSTIFY_CENTER" 
+        color="Graphics.COLOR_WHITE" 
+        font="Graphics.FONT_SYSTEM_NUMBER_THAI_HOT" 
+        />
+    
+    <label id="DateLabel" x="center" y="25" 
+        font="Gfx.FONT_TINY" 
+        justification="Gfx.TEXT_JUSTIFY_CENTER" 
+        color="Gfx.COLOR_WHITE" 
+        />
+    
+    <label id="HRLabel" x="center" y="200" 
+        font="Gfx.FONT_MEDIUM" 
+        justification="Gfx.TEXT_JUSTIFY_CENTER" 
+        color="Gfx.COLOR_WHITE" 
+        />
+</layout>
